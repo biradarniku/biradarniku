@@ -56,24 +56,20 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<br>
-<h2 align="center">📊 Leetcode Statistics<h2>
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Pallu27899?ext=activity" />
-<br />
+
 
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu27899&theme=react" alt="pallavi bobale" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pallu27899&show_icons=true&theme=react" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biradarniku&theme=react" alt="pallavi bobale" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=biradarniku&show_icons=true&theme=react" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallu27899&theme=react&langs_count=8" alt="pallavi bobale" height="260px" width="25%" />
-  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biradarniku&theme=react&langs_count=8" alt="pallavi bobale" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=biradarniku&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
 <div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
